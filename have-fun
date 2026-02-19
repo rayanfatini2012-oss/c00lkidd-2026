@@ -126,7 +126,7 @@ TextLabel.BorderSizePixel = 0
 TextLabel.Position = UDim2.new(0.52036792, 0, 0, 0)
 TextLabel.Size = UDim2.new(0, 200, 0, 50)
 TextLabel.Font = Enum.Font.SourceSans
-TextLabel.Text = "c00lkidd 2026 (not by Ligma)"
+TextLabel.Text = "c00lkidd fUck roBLOX"
 TextLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
 TextLabel.TextSize = 52.000
 
@@ -147,7 +147,7 @@ TextLabel1.BorderColor3 = Color3.fromRGB(0, 0, 0)
 TextLabel1.BorderSizePixel = 0
 TextLabel1.Size = UDim2.new(0, 303, 0, 44)
 TextLabel1.Font = Enum.Font.SourceSans
-TextLabel1.Text = "Ligma skidded the rtlsmonk version"
+TextLabel1.Text = "client sided and the server side version will never come :)"
 TextLabel1.TextColor3 = Color3.fromRGB(255, 255, 255)
 TextLabel1.TextSize = 19.000
 TextLabel1.TextStrokeTransparency = 0.000
